@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo Guess Swipe</string>
+    <string name="instructionText">Can you guess if these streetview images are in Europe? Swipe the image LEFT if it\'s in Europe and RIGHT if it\'s not in Europe. Click on an image to show the name of the country</string>
+    <string name="answerCorrect">Correct answer! </string>
+    <string name="isInEurope"> is in Europe</string>
+    <string name="answerWrong">Wrong answer! </string>
+    <string name="notInEurope"> is not in Europe</string>
+</resources>
